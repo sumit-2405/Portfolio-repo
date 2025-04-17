@@ -60,7 +60,7 @@ function App() {
     try {
       const result = await emailjs.sendForm(
         'service_ilu9a0p',
-        'template_mhncafi',
+        'template_m9oed8g',
         form.current,
         'vXkIpTeTHCEvFXcac'
       );
